@@ -25,13 +25,6 @@ This project is also meant to demonstrate how consumer fabrication tools can be 
 
 ---
 
-## Project Images
-
-### Full 3D Model
-
-![3D Model](Squeak/Images/Screenshot 2026-03-29 114618.png)
----
-
 ## Design Overview
 
 * Fully custom CAD assembly including all components
