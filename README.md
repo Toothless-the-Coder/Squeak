@@ -31,14 +31,6 @@ This project is also meant to demonstrate how consumer fabrication tools can be 
 
 ![3D Model](Images/3D_Model.png)
 
-### PCB Design
-
-![PCB](Images/PCB.png)
-
-### Wiring Diagram
-
-![Wiring](Images/Wiring.png)
-
 ---
 
 ## Design Overview
