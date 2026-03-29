@@ -29,7 +29,7 @@ This project is also meant to demonstrate how consumer fabrication tools can be 
 
 ### Full 3D Model
 
-![3D Model][Picture](Images/Screenshot 2026-03-29 114618.png)
+![3D Model](Images/Screenshot 2026-03-29 114618.png)
 ---
 
 ## Design Overview
