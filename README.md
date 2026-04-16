@@ -41,4 +41,9 @@ This project is also meant to demonstrate how consumer fabrication tools can be 
 |Bambu Labs Kit        |The kit from bambu labs     |    1     |https://us.store.bambulab.com/products/wireless-mouse-components-kit-002?srsltid=AfmBOooqwx9uq5kwULpQdUpvjbz40g4EqTA0H3pzeNxizHQrXNdPXv8k
 
 
-Images/Screenshot 2026-03-29 114618.png
+<img width="269" height="437" alt="Screenshot 2026-03-28 213250" src="https://github.com/user-attachments/assets/287c258b-b350-45a8-b516-2530eba2814a" />
+<img width="316" height="404" alt="Screenshot 2026-03-29 114618" src="https://github.com/user-attachments/assets/ff4b55b4-1aa9-4a83-a186-9aec37fab3b2" />
+<img width="291" height="396" alt="Screenshot 2026-03-29 114629" src="https://github.com/user-attachments/assets/a6b9d3d6-ba36-445e-a2dd-337c5d0168df" />
+
+
+
